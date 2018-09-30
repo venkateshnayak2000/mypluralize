@@ -1,7 +1,7 @@
 {
   "name": "mypluralize",
   "version": "1.0.0",
-  "description": "Test type script kmodule",
+  "description": "Test type script module",
   "main": "index.js",
   "repository": {
     "type": "git",
