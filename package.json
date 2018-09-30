@@ -1,0 +1,21 @@
+{
+  "name": "mypluralize",
+  "version": "1.0.0",
+  "description": "Test type script kmodule",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkateshnayak2000/mypluralize"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Venkatesh Nayak",
+  "license": "MIT",
+  "dependencies": {
+    "pluralize": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/pluralize": "0.0.29"
+  }
+}
