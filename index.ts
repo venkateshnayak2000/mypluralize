@@ -6,5 +6,5 @@ import * as pluralize from 'pluralize'
 * @Return {string}
 */
 export function getPlural (str: any) : string {
-  return pluralize.plural(str); //9th server comment
+  return pluralize.plural(str); //13th comment
 }
