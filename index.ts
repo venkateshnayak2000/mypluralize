@@ -1,6 +1,6 @@
 import * as pluralize from 'pluralize'
 /**
-* 10th commit from server
+* 10.1 commit from server
 * @Method: Returns the plural form of any noun.
 * @Param {string}
 * @Return {string}
