@@ -1,6 +1,6 @@
 import * as pluralize from 'pluralize'
 /**
-* Seventh change from intellij
+* Eight  change from intellij client
 * @Method: Returns the plural form of any noun.
 * @Param {string}
 * @Return {string}
