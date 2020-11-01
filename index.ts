@@ -1,10 +1,10 @@
 import * as pluralize from 'pluralize'
 /**
-* Third change from intellij
+* Sixth change from intellij
 * @Method: Returns the plural form of any noun.
 * @Param {string}
 * @Return {string}
 */
 export function getPlural (str: any) : string {
-  return pluralize.plural(str); //Added back comment
+  return pluralize.plural(str); //removed back comment from server
 }
