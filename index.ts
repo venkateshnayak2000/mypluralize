@@ -5,6 +5,6 @@ import * as pluralize from 'pluralize'
 * @Param {string}
 * @Return {string}
 */
-export function getPlural (str: any) : string { //Master change 2
+export function getPlural (str: any) : string { //Master change 3
   return pluralize.plural(str); //19th comment from dev branch
 }
